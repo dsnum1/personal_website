@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.552815bf.css",
-    "main.js": "/personal_website/static/js/main.9eaa7fe7.js",
+    "main.css": "/personal_website/static/css/main.f237f674.css",
+    "main.js": "/personal_website/static/js/main.a94051d8.js",
     "static/media/DSC_0672.JPG": "/personal_website/static/media/DSC_0672.594f722a0404aa268bd5.JPG",
     "static/media/DSC_0619.JPG": "/personal_website/static/media/DSC_0619.c0ba626801482454e51c.JPG",
     "static/media/MDP.gif": "/personal_website/static/media/MDP.22b73d75cf2a4e0f652d.gif",
@@ -24,7 +24,7 @@
     "static/media/DSC_0547.JPG": "/personal_website/static/media/DSC_0547.25ccd00135430224f435.JPG",
     "static/media/DSC_0545.JPG": "/personal_website/static/media/DSC_0545.0106b21d2929cfbf60c6.JPG",
     "static/media/DSC_0607.JPG": "/personal_website/static/media/DSC_0607.37a3c8f0542efd7e7c0d.JPG",
-    "static/media/DSC_0581.JPG": "/personal_website/static/media/DSC_0581.80b793746ea20928bfd9.JPG",
+    "static/media/DSC_0548.JPG": "/personal_website/static/media/DSC_0548.4bf32076519bf39a155a.JPG",
     "static/media/DSC_0549.JPG": "/personal_website/static/media/DSC_0549.115c184cb6560572081e.JPG",
     "static/media/DSC_0552.JPG": "/personal_website/static/media/DSC_0552.1ceb30fe43d02d9b7012.JPG",
     "static/media/Home1.png": "/personal_website/static/media/Home1.cc5cae7d0fcd6a9da5f8.png",
@@ -38,15 +38,17 @@
     "static/media/Rizz-space-Cover.png": "/personal_website/static/media/Rizz-space-Cover.669b8277a18328ed6858.png",
     "static/media/Professional-space-Cover.png": "/personal_website/static/media/Professional-space-Cover.9667b723c002189da132.png",
     "static/media/database_bg.jpg": "/personal_website/static/media/database_bg.76c4344da2119d02a7fb.jpg",
+    "static/media/watercolor.jpg": "/personal_website/static/media/watercolor.a8c5b3ad05623f14286d.jpg",
     "static/media/Senserbot.jpg": "/personal_website/static/media/Senserbot.b4ddb618ba0a9fda06dc.jpg",
+    "static/media/prof_wallpaper_ai_lexica.jpg": "/personal_website/static/media/prof_wallpaper_ai_lexica.5b51233f0f74e00e9f8c.jpg",
     "static/media/github_icon_coloredpng.png": "/personal_website/static/media/github_icon_coloredpng.a6956aa73fec8918f497.png",
     "static/media/instaIcon.png": "/personal_website/static/media/instaIcon.4a85fa308a481f4ce479.png",
     "index.html": "/personal_website/index.html",
-    "main.552815bf.css.map": "/personal_website/static/css/main.552815bf.css.map",
-    "main.9eaa7fe7.js.map": "/personal_website/static/js/main.9eaa7fe7.js.map"
+    "main.f237f674.css.map": "/personal_website/static/css/main.f237f674.css.map",
+    "main.a94051d8.js.map": "/personal_website/static/js/main.a94051d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.552815bf.css",
-    "static/js/main.9eaa7fe7.js"
+    "static/css/main.f237f674.css",
+    "static/js/main.a94051d8.js"
   ]
 }
