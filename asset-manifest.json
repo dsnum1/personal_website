@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.c004c9e1.css",
-    "main.js": "/personal_website/static/js/main.65bafd19.js",
+    "main.css": "/personal_website/static/css/main.8a4b844d.css",
+    "main.js": "/personal_website/static/js/main.0bdcb44b.js",
     "static/media/DSC_0672.JPG": "/personal_website/static/media/DSC_0672.594f722a0404aa268bd5.JPG",
     "static/media/DSC_0619.JPG": "/personal_website/static/media/DSC_0619.c0ba626801482454e51c.JPG",
     "static/media/MDP.gif": "/personal_website/static/media/MDP.22b73d75cf2a4e0f652d.gif",
@@ -41,6 +41,7 @@
     "static/media/database_bg.jpg": "/personal_website/static/media/database_bg.76c4344da2119d02a7fb.jpg",
     "static/media/watercolor.jpg": "/personal_website/static/media/watercolor.a8c5b3ad05623f14286d.jpg",
     "static/media/mix_ride.jpg": "/personal_website/static/media/mix_ride.d81270ea941d8931f650.jpg",
+    "static/media/naruto_run_background.jpg": "/personal_website/static/media/naruto_run_background.20f9ff485b5fc0832e6b.jpg",
     "static/media/Senserbot.jpg": "/personal_website/static/media/Senserbot.b4ddb618ba0a9fda06dc.jpg",
     "static/media/mrf.png": "/personal_website/static/media/mrf.312393223ea0d4922a95.png",
     "static/media/prof_wallpaper_ai_lexica.jpg": "/personal_website/static/media/prof_wallpaper_ai_lexica.5b51233f0f74e00e9f8c.jpg",
@@ -50,11 +51,11 @@
     "static/media/instaIcon.png": "/personal_website/static/media/instaIcon.4a85fa308a481f4ce479.png",
     "static/media/revicons.woff": "/personal_website/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/personal_website/index.html",
-    "main.c004c9e1.css.map": "/personal_website/static/css/main.c004c9e1.css.map",
-    "main.65bafd19.js.map": "/personal_website/static/js/main.65bafd19.js.map"
+    "main.8a4b844d.css.map": "/personal_website/static/css/main.8a4b844d.css.map",
+    "main.0bdcb44b.js.map": "/personal_website/static/js/main.0bdcb44b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c004c9e1.css",
-    "static/js/main.65bafd19.js"
+    "static/css/main.8a4b844d.css",
+    "static/js/main.0bdcb44b.js"
   ]
 }
