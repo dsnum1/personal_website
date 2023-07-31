@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.86054e14.css",
-    "main.js": "/personal_website/static/js/main.f135ea0b.js",
+    "main.css": "/personal_website/static/css/main.d02d4da5.css",
+    "main.js": "/personal_website/static/js/main.a354ac44.js",
     "static/media/DSC_0672.JPG": "/personal_website/static/media/DSC_0672.594f722a0404aa268bd5.JPG",
     "static/media/DSC_0619.JPG": "/personal_website/static/media/DSC_0619.c0ba626801482454e51c.JPG",
     "static/media/MDP.gif": "/personal_website/static/media/MDP.22b73d75cf2a4e0f652d.gif",
+    "static/media/singapore_skyline.jpg": "/personal_website/static/media/singapore_skyline.2869edbf87e3e7ab3102.jpg",
     "static/media/DSC_0659.JPG": "/personal_website/static/media/DSC_0659.5ba8b53bd42a05c77869.JPG",
     "static/media/DSC_0666.JPG": "/personal_website/static/media/DSC_0666.48163fdc7f2f9aa83999.JPG",
     "static/media/DSC_0657.JPG": "/personal_website/static/media/DSC_0657.2a29fb52a18252c37e2b.JPG",
@@ -17,12 +18,14 @@
     "static/media/iPhoneBg1.JPG": "/personal_website/static/media/iPhoneBg1.caaebcd937242fad1baa.JPG",
     "static/media/DSC_3093.JPG": "/personal_website/static/media/DSC_3093.f31b2079ae6281e593cc.JPG",
     "static/media/DSC_3087.JPG": "/personal_website/static/media/DSC_3087.d413f794170b839ee9ab.JPG",
+    "static/media/united_states.jpg": "/personal_website/static/media/united_states.c40962c6b3c29da5376b.jpg",
     "static/media/DSC_0595.JPG": "/personal_website/static/media/DSC_0595.510d393933da5f0d03f6.JPG",
     "static/media/DSC_0575.JPG": "/personal_website/static/media/DSC_0575.0aba33195f0934b45e2b.JPG",
     "static/media/windmill.jpg": "/personal_website/static/media/windmill.bf538bce235f68b24e4d.jpg",
     "static/media/Footer 1.png": "/personal_website/static/media/Footer 1.9eb1348a53f82b9fc1e5.png",
     "static/media/DSC_0547.JPG": "/personal_website/static/media/DSC_0547.25ccd00135430224f435.JPG",
     "static/media/DSC_0545.JPG": "/personal_website/static/media/DSC_0545.0106b21d2929cfbf60c6.JPG",
+    "static/media/shrikar_dance.gif": "/personal_website/static/media/shrikar_dance.8f64902231e4dedc0366.gif",
     "static/media/DSC_0607.JPG": "/personal_website/static/media/DSC_0607.37a3c8f0542efd7e7c0d.JPG",
     "static/media/DSC_0548.JPG": "/personal_website/static/media/DSC_0548.4bf32076519bf39a155a.JPG",
     "static/media/DSC_0549.JPG": "/personal_website/static/media/DSC_0549.115c184cb6560572081e.JPG",
@@ -38,6 +41,7 @@
     "static/media/Rizz-space-Cover.png": "/personal_website/static/media/Rizz-space-Cover.669b8277a18328ed6858.png",
     "static/media/car-dashboard.jpg": "/personal_website/static/media/car-dashboard.dc15a72e4a737a55d126.jpg",
     "static/media/Professional-space-Cover.png": "/personal_website/static/media/Professional-space-Cover.9667b723c002189da132.png",
+    "static/media/Indianpage.jpg": "/personal_website/static/media/Indianpage.f090842f9e12365664f3.jpg",
     "static/media/database_bg.jpg": "/personal_website/static/media/database_bg.76c4344da2119d02a7fb.jpg",
     "static/media/watercolor.jpg": "/personal_website/static/media/watercolor.a8c5b3ad05623f14286d.jpg",
     "static/media/mix_ride.jpg": "/personal_website/static/media/mix_ride.d81270ea941d8931f650.jpg",
@@ -51,11 +55,11 @@
     "static/media/instaIcon.png": "/personal_website/static/media/instaIcon.4a85fa308a481f4ce479.png",
     "static/media/revicons.woff": "/personal_website/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/personal_website/index.html",
-    "main.86054e14.css.map": "/personal_website/static/css/main.86054e14.css.map",
-    "main.f135ea0b.js.map": "/personal_website/static/js/main.f135ea0b.js.map"
+    "main.d02d4da5.css.map": "/personal_website/static/css/main.d02d4da5.css.map",
+    "main.a354ac44.js.map": "/personal_website/static/js/main.a354ac44.js.map"
   },
   "entrypoints": [
-    "static/css/main.86054e14.css",
-    "static/js/main.f135ea0b.js"
+    "static/css/main.d02d4da5.css",
+    "static/js/main.a354ac44.js"
   ]
 }
