@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.84e7de72.css",
-    "main.js": "/personal_website/static/js/main.92ec106b.js",
+    "main.css": "/personal_website/static/css/main.b7b99969.css",
+    "main.js": "/personal_website/static/js/main.b6862c19.js",
     "static/media/DSC_0672.JPG": "/personal_website/static/media/DSC_0672.594f722a0404aa268bd5.JPG",
     "static/media/DSC_0619.JPG": "/personal_website/static/media/DSC_0619.c0ba626801482454e51c.JPG",
     "static/media/MDP.gif": "/personal_website/static/media/MDP.22b73d75cf2a4e0f652d.gif",
@@ -44,7 +44,9 @@
     "static/media/Indianpage.jpg": "/personal_website/static/media/Indianpage.f090842f9e12365664f3.jpg",
     "static/media/database_bg.jpg": "/personal_website/static/media/database_bg.76c4344da2119d02a7fb.jpg",
     "static/media/watercolor.jpg": "/personal_website/static/media/watercolor.a8c5b3ad05623f14286d.jpg",
+    "static/media/HP_day_out.jpg": "/personal_website/static/media/HP_day_out.a16958bf4671989fca8b.jpg",
     "static/media/mix_ride.jpg": "/personal_website/static/media/mix_ride.d81270ea941d8931f650.jpg",
+    "static/media/OptimizationFunction.jpg": "/personal_website/static/media/OptimizationFunction.d1509f256f0cf190d8a5.jpg",
     "static/media/naruto_run_background.jpg": "/personal_website/static/media/naruto_run_background.20f9ff485b5fc0832e6b.jpg",
     "static/media/Senserbot.jpg": "/personal_website/static/media/Senserbot.b4ddb618ba0a9fda06dc.jpg",
     "static/media/mrf.png": "/personal_website/static/media/mrf.312393223ea0d4922a95.png",
@@ -55,11 +57,11 @@
     "static/media/instaIcon.png": "/personal_website/static/media/instaIcon.4a85fa308a481f4ce479.png",
     "static/media/revicons.woff": "/personal_website/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/personal_website/index.html",
-    "main.84e7de72.css.map": "/personal_website/static/css/main.84e7de72.css.map",
-    "main.92ec106b.js.map": "/personal_website/static/js/main.92ec106b.js.map"
+    "main.b7b99969.css.map": "/personal_website/static/css/main.b7b99969.css.map",
+    "main.b6862c19.js.map": "/personal_website/static/js/main.b6862c19.js.map"
   },
   "entrypoints": [
-    "static/css/main.84e7de72.css",
-    "static/js/main.92ec106b.js"
+    "static/css/main.b7b99969.css",
+    "static/js/main.b6862c19.js"
   ]
 }
