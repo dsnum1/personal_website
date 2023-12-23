@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.b7b99969.css",
-    "main.js": "/personal_website/static/js/main.b6862c19.js",
+    "main.css": "/personal_website/static/css/main.361a556f.css",
+    "main.js": "/personal_website/static/js/main.57c4f75e.js",
     "static/media/DSC_0672.JPG": "/personal_website/static/media/DSC_0672.594f722a0404aa268bd5.JPG",
     "static/media/DSC_0619.JPG": "/personal_website/static/media/DSC_0619.c0ba626801482454e51c.JPG",
     "static/media/MDP.gif": "/personal_website/static/media/MDP.22b73d75cf2a4e0f652d.gif",
@@ -49,19 +49,21 @@
     "static/media/OptimizationFunction.jpg": "/personal_website/static/media/OptimizationFunction.d1509f256f0cf190d8a5.jpg",
     "static/media/naruto_run_background.jpg": "/personal_website/static/media/naruto_run_background.20f9ff485b5fc0832e6b.jpg",
     "static/media/Senserbot.jpg": "/personal_website/static/media/Senserbot.b4ddb618ba0a9fda06dc.jpg",
+    "static/media/Spotify_Logo_RGB_White.png": "/personal_website/static/media/Spotify_Logo_RGB_White.f48fb565509bf23854a8.png",
     "static/media/mrf.png": "/personal_website/static/media/mrf.312393223ea0d4922a95.png",
     "static/media/prof_wallpaper_ai_lexica.jpg": "/personal_website/static/media/prof_wallpaper_ai_lexica.5b51233f0f74e00e9f8c.jpg",
     "static/media/github_icon_coloredpng.png": "/personal_website/static/media/github_icon_coloredpng.a6956aa73fec8918f497.png",
+    "static/media/Spotify_Icon_RGB_White.png": "/personal_website/static/media/Spotify_Icon_RGB_White.ecd5405176643e26f9f8.png",
     "static/media/revicons.eot": "/personal_website/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/personal_website/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/instaIcon.png": "/personal_website/static/media/instaIcon.4a85fa308a481f4ce479.png",
     "static/media/revicons.woff": "/personal_website/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/personal_website/index.html",
-    "main.b7b99969.css.map": "/personal_website/static/css/main.b7b99969.css.map",
-    "main.b6862c19.js.map": "/personal_website/static/js/main.b6862c19.js.map"
+    "main.361a556f.css.map": "/personal_website/static/css/main.361a556f.css.map",
+    "main.57c4f75e.js.map": "/personal_website/static/js/main.57c4f75e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7b99969.css",
-    "static/js/main.b6862c19.js"
+    "static/css/main.361a556f.css",
+    "static/js/main.57c4f75e.js"
   ]
 }
