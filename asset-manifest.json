@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.361a556f.css",
-    "main.js": "/personal_website/static/js/main.270354fa.js",
+    "main.css": "/personal_website/static/css/main.5abd45c0.css",
+    "main.js": "/personal_website/static/js/main.c5857857.js",
     "static/media/DSC_0672.JPG": "/personal_website/static/media/DSC_0672.594f722a0404aa268bd5.JPG",
     "static/media/DSC_0619.JPG": "/personal_website/static/media/DSC_0619.c0ba626801482454e51c.JPG",
     "static/media/MDP.gif": "/personal_website/static/media/MDP.22b73d75cf2a4e0f652d.gif",
@@ -41,30 +41,40 @@
     "static/media/Rizz-space-Cover.png": "/personal_website/static/media/Rizz-space-Cover.669b8277a18328ed6858.png",
     "static/media/car-dashboard.jpg": "/personal_website/static/media/car-dashboard.dc15a72e4a737a55d126.jpg",
     "static/media/Professional-space-Cover.png": "/personal_website/static/media/Professional-space-Cover.9667b723c002189da132.png",
+    "static/media/ProfilePhoto.jpg": "/personal_website/static/media/ProfilePhoto.72db99242197d5e24662.jpg",
     "static/media/Indianpage.jpg": "/personal_website/static/media/Indianpage.f090842f9e12365664f3.jpg",
     "static/media/database_bg.jpg": "/personal_website/static/media/database_bg.76c4344da2119d02a7fb.jpg",
+    "static/media/FYP_conversion.gif": "/personal_website/static/media/FYP_conversion.616e8e5d4627ea5ec81b.gif",
     "static/media/watercolor.jpg": "/personal_website/static/media/watercolor.a8c5b3ad05623f14286d.jpg",
+    "static/media/RLWorkshop.png": "/personal_website/static/media/RLWorkshop.739ffe825d8b7398524e.png",
+    "static/media/MDP.png": "/personal_website/static/media/MDP.18375668cf03ae82281b.png",
     "static/media/HP_day_out.jpg": "/personal_website/static/media/HP_day_out.a16958bf4671989fca8b.jpg",
+    "static/media/MixRidePlaylist.png": "/personal_website/static/media/MixRidePlaylist.e03b8d819ab4d768a94c.png",
     "static/media/mix_ride.jpg": "/personal_website/static/media/mix_ride.d81270ea941d8931f650.jpg",
+    "static/media/SpotifyPlaylist.png": "/personal_website/static/media/SpotifyPlaylist.b06c85056164ba4e4d9f.png",
     "static/media/OptimizationFunction.jpg": "/personal_website/static/media/OptimizationFunction.d1509f256f0cf190d8a5.jpg",
     "static/media/naruto_run_background.jpg": "/personal_website/static/media/naruto_run_background.20f9ff485b5fc0832e6b.jpg",
     "static/media/Logo_Updated_MixRide.png": "/personal_website/static/media/Logo_Updated_MixRide.b3612ea467b2eefcdca8.png",
     "static/media/Senserbot.jpg": "/personal_website/static/media/Senserbot.b4ddb618ba0a9fda06dc.jpg",
+    "static/media/SiameseNetTripletLoss.png": "/personal_website/static/media/SiameseNetTripletLoss.bef41112beb04b213a86.png",
+    "static/media/SiameseNet.png": "/personal_website/static/media/SiameseNet.80087cc1e8fcb3eab445.png",
     "static/media/Spotify_Logo_RGB_White.png": "/personal_website/static/media/Spotify_Logo_RGB_White.f48fb565509bf23854a8.png",
     "static/media/mrf.png": "/personal_website/static/media/mrf.312393223ea0d4922a95.png",
+    "static/media/SemiSupervisedResults.png": "/personal_website/static/media/SemiSupervisedResults.5fba3b0518cbe9e31dd6.png",
     "static/media/prof_wallpaper_ai_lexica.jpg": "/personal_website/static/media/prof_wallpaper_ai_lexica.5b51233f0f74e00e9f8c.jpg",
     "static/media/github_icon_coloredpng.png": "/personal_website/static/media/github_icon_coloredpng.a6956aa73fec8918f497.png",
     "static/media/Spotify_Icon_RGB_White.png": "/personal_website/static/media/Spotify_Icon_RGB_White.ecd5405176643e26f9f8.png",
     "static/media/revicons.eot": "/personal_website/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/personal_website/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/instaIcon.png": "/personal_website/static/media/instaIcon.4a85fa308a481f4ce479.png",
+    "static/media/SiameseNetResult.png": "/personal_website/static/media/SiameseNetResult.574d3f1e7762b929fe77.png",
     "static/media/revicons.woff": "/personal_website/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/personal_website/index.html",
-    "main.361a556f.css.map": "/personal_website/static/css/main.361a556f.css.map",
-    "main.270354fa.js.map": "/personal_website/static/js/main.270354fa.js.map"
+    "main.5abd45c0.css.map": "/personal_website/static/css/main.5abd45c0.css.map",
+    "main.c5857857.js.map": "/personal_website/static/js/main.c5857857.js.map"
   },
   "entrypoints": [
-    "static/css/main.361a556f.css",
-    "static/js/main.270354fa.js"
+    "static/css/main.5abd45c0.css",
+    "static/js/main.c5857857.js"
   ]
 }
