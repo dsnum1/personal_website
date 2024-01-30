@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.5abd45c0.css",
-    "main.js": "/personal_website/static/js/main.c5857857.js",
+    "main.css": "/personal_website/static/css/main.8221600d.css",
+    "main.js": "/personal_website/static/js/main.6c96168c.js",
     "static/media/DSC_0672.JPG": "/personal_website/static/media/DSC_0672.594f722a0404aa268bd5.JPG",
     "static/media/DSC_0619.JPG": "/personal_website/static/media/DSC_0619.c0ba626801482454e51c.JPG",
     "static/media/MDP.gif": "/personal_website/static/media/MDP.22b73d75cf2a4e0f652d.gif",
@@ -70,11 +70,11 @@
     "static/media/SiameseNetResult.png": "/personal_website/static/media/SiameseNetResult.574d3f1e7762b929fe77.png",
     "static/media/revicons.woff": "/personal_website/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/personal_website/index.html",
-    "main.5abd45c0.css.map": "/personal_website/static/css/main.5abd45c0.css.map",
-    "main.c5857857.js.map": "/personal_website/static/js/main.c5857857.js.map"
+    "main.8221600d.css.map": "/personal_website/static/css/main.8221600d.css.map",
+    "main.6c96168c.js.map": "/personal_website/static/js/main.6c96168c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5abd45c0.css",
-    "static/js/main.c5857857.js"
+    "static/css/main.8221600d.css",
+    "static/js/main.6c96168c.js"
   ]
 }
