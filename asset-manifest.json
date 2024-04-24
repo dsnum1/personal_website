@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.8221600d.css",
-    "main.js": "/personal_website/static/js/main.6c96168c.js",
+    "main.css": "/personal_website/static/css/main.9f1cf60c.css",
+    "main.js": "/personal_website/static/js/main.04a76132.js",
     "static/media/DSC_0672.JPG": "/personal_website/static/media/DSC_0672.594f722a0404aa268bd5.JPG",
     "static/media/DSC_0619.JPG": "/personal_website/static/media/DSC_0619.c0ba626801482454e51c.JPG",
     "static/media/MDP.gif": "/personal_website/static/media/MDP.22b73d75cf2a4e0f652d.gif",
@@ -37,7 +37,6 @@
     "static/media/EMASS_evidence.png": "/personal_website/static/media/EMASS_evidence.f1c379813af583bbf95a.png",
     "static/media/DSC_3086.JPG": "/personal_website/static/media/DSC_3086.b31edd46ac650e494c95.JPG",
     "static/media/GateWay.png": "/personal_website/static/media/GateWay.208c901ed67efd50f7da.png",
-    "static/media/professional-profile.png": "/personal_website/static/media/professional-profile.d555b3bf6428e9ee47d1.png",
     "static/media/Rizz-space-Cover.png": "/personal_website/static/media/Rizz-space-Cover.669b8277a18328ed6858.png",
     "static/media/car-dashboard.jpg": "/personal_website/static/media/car-dashboard.dc15a72e4a737a55d126.jpg",
     "static/media/Professional-space-Cover.png": "/personal_website/static/media/Professional-space-Cover.9667b723c002189da132.png",
@@ -70,11 +69,11 @@
     "static/media/SiameseNetResult.png": "/personal_website/static/media/SiameseNetResult.574d3f1e7762b929fe77.png",
     "static/media/revicons.woff": "/personal_website/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/personal_website/index.html",
-    "main.8221600d.css.map": "/personal_website/static/css/main.8221600d.css.map",
-    "main.6c96168c.js.map": "/personal_website/static/js/main.6c96168c.js.map"
+    "main.9f1cf60c.css.map": "/personal_website/static/css/main.9f1cf60c.css.map",
+    "main.04a76132.js.map": "/personal_website/static/js/main.04a76132.js.map"
   },
   "entrypoints": [
-    "static/css/main.8221600d.css",
-    "static/js/main.6c96168c.js"
+    "static/css/main.9f1cf60c.css",
+    "static/js/main.04a76132.js"
   ]
 }
