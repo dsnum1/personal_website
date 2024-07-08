@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.9764c8ea.css",
-    "main.js": "/personal_website/static/js/main.03b43cef.js",
+    "main.css": "/personal_website/static/css/main.acf76609.css",
+    "main.js": "/personal_website/static/js/main.946c1650.js",
     "static/media/DSC_0672.JPG": "/personal_website/static/media/DSC_0672.594f722a0404aa268bd5.JPG",
     "static/media/DSC_0619.JPG": "/personal_website/static/media/DSC_0619.c0ba626801482454e51c.JPG",
     "static/media/MDP.gif": "/personal_website/static/media/MDP.22b73d75cf2a4e0f652d.gif",
@@ -47,6 +47,7 @@
     "static/media/watercolor.jpg": "/personal_website/static/media/watercolor.a8c5b3ad05623f14286d.jpg",
     "static/media/RLWorkshop.png": "/personal_website/static/media/RLWorkshop.739ffe825d8b7398524e.png",
     "static/media/MDP.png": "/personal_website/static/media/MDP.18375668cf03ae82281b.png",
+    "static/media/sky_1.jpg": "/personal_website/static/media/sky_1.62ff6eb5599ca5f78053.jpg",
     "static/media/HP_day_out.jpg": "/personal_website/static/media/HP_day_out.a16958bf4671989fca8b.jpg",
     "static/media/MixRidePlaylist.png": "/personal_website/static/media/MixRidePlaylist.e03b8d819ab4d768a94c.png",
     "static/media/mix_ride.jpg": "/personal_website/static/media/mix_ride.d81270ea941d8931f650.jpg",
@@ -69,11 +70,11 @@
     "static/media/SiameseNetResult.png": "/personal_website/static/media/SiameseNetResult.574d3f1e7762b929fe77.png",
     "static/media/revicons.woff": "/personal_website/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/personal_website/index.html",
-    "main.9764c8ea.css.map": "/personal_website/static/css/main.9764c8ea.css.map",
-    "main.03b43cef.js.map": "/personal_website/static/js/main.03b43cef.js.map"
+    "main.acf76609.css.map": "/personal_website/static/css/main.acf76609.css.map",
+    "main.946c1650.js.map": "/personal_website/static/js/main.946c1650.js.map"
   },
   "entrypoints": [
-    "static/css/main.9764c8ea.css",
-    "static/js/main.03b43cef.js"
+    "static/css/main.acf76609.css",
+    "static/js/main.946c1650.js"
   ]
 }
