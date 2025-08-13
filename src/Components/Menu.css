@@ -1,0 +1,75 @@
+
+
+
+.professional-space{
+    width:50%;
+    height:100vh;
+    background-image: url('./Images/Draft2//Professional-space-Cover.png');
+    background-repeat: no-repeat;
+    background-size:    cover;
+}
+
+.portfolio-space{
+    width:50%;
+    height:100vh;
+    background-image: url('./Images/Draft2/Rizz-space-Cover.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.space{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: black;
+}
+
+.button{
+    width:12rem;
+    height:3.5rem;
+    margin-bottom:4rem;
+}
+
+@media (max-width: 930px) {
+    .professional-space{
+        max-height:25vh;
+        min-height:75vh;
+        width:50%;
+        background-image: url('./Images/Draft2//Professional-space-Cover.png');
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-size:cover;
+        background-color: black;
+
+    }
+    
+    .portfolio-space{
+        width:50%;
+        max-height:25vh;
+        min-height:75vh;
+        background-image: url('./Images/Draft2/Rizz-space-Cover.png');
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-color: black;
+    }
+
+    .button{
+        width:7rem;
+        height:2.5rem;
+        margin-bottom:2rem;
+        font-size:1rem;
+    }
+    
+}
+
+@media (max-width: 930px) {
+    .professional-space{
+        background-image: url('./Images/prof_wallpaper_ai_lexica.jpg');
+        background-position: center;
+    }
+
+    .portfolio-space{
+        background-image: url('./Images/watercolor.jpg');
+        background-position: center;
+    }
+}

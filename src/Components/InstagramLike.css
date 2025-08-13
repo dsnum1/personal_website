@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+
+.photoshoot-title, .blog-title{
+    text-align: center;
+    margin-bottom:3rem;
+    margin-top:4rem;
+    font-family: 'Spectral';
+    font-weight: 900;
+    font-size:25px;
+    margin-left:10%;
+    margin-right:10%;
+    font-style: italic;
+}
+
+.blog-title-space{
+    background-image: url('../Components/Images/sky_1.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.blog-title{
+    color:white;
+    font-size: 45px;
+}
+
+.blog-title-wallpaper{
+    width:50%;
+    background-color: rgba(198, 214, 220, 0.664);
+}
+
+.modelling-space{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pic-holder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:1rem;
+    margin-bottom:1rem;
+}
+
+
+img{
+    object-fit: cover;
+    border-radius:0.5rem;
+}
+
+
+@media (min-width: 1300px) {
+    img.modelling-photo-instance{
+        width: 400px;
+    }
+}
+
+
+
+@media (min-width: 1700px) {
+    img.modelling-photo-instance{
+        width:500px
+    }
+}
+
+@media (min-width: 2000px) {
+    img.modelling-photo-instance{
+        width: 800px
+    }
+}
+
+
+img.modelling-photo-instance{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+

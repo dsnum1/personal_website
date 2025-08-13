@@ -1,0 +1,265 @@
+.home-banner{
+    background-image: url('./Images/Draft2/Home1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 155vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:@1&display=swap');
+
+.title-holder{
+    max-height: 50rem;
+    margin-right:3rem;
+    margin-top:7rem;
+}
+
+
+
+.title{
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+    /* line-height: 110px; */
+    /* or 129% */
+
+    letter-spacing: 0.05em;
+
+
+    text-align: right;
+    color: #2A8485;
+    color: #FF9933;
+}
+
+.emphasis-title{
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 90px;
+    /* line-height: 145px; */
+    letter-spacing: 0.05em;
+    text-align: right;
+    color: #2A8485;
+    color :#FCB589;
+    color:#000088;
+    background-color: white;
+}
+
+.blue-text{
+    color:#000088;
+}
+
+.white-text{
+    color:#000088;
+}
+.green-text{
+    color:#128807;
+    font-size: 45px;
+}
+
+
+.signature{
+    text-align: right;
+    margin-right:4rem;
+    margin-top:4rem;
+    color :#FCB589;
+    color:#128807;
+    font-size: 25px;
+
+}
+
+
+.socials{
+    display: flex;
+    justify-content: right;
+    margin-right:5rem;
+    margin-top:5rem;
+    column-gap: 2.2rem;
+    position: sticky !important;
+}
+
+@media (min-width: 1700px) 
+{
+
+    .title{
+
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 100px;
+        /* line-height: 110px; */
+        /* or 129% */
+    
+        letter-spacing: 0.05em;
+    
+        text-align: right;
+    
+    }
+    
+    .emphasis-title{
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 110px;
+        /* line-height: 145px; */
+        letter-spacing: 0.05em;
+        text-align: right;
+        color:#000088;
+        background-color: white;    
+    }
+}
+
+@media (min-width: 2400px) 
+{
+
+    .title{
+
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 170px;
+        /* line-height: 110px; */
+        /* or 129% */
+    
+        letter-spacing: 0.05em;
+        text-align: right;
+    
+    }
+    
+    .emphasis-title{
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 190px;
+        /* line-height: 145px; */
+        letter-spacing: 0.05em;
+        text-align: right;
+    }
+}
+
+
+@media (max-width:1000px){
+    .home-banner{
+        /* background-image: url('./Images/Divyansh-20230115T142006Z-001/Divyansh/Professional.JPG'); */
+        background-color: black;
+        /* background-image: url('./Images/iphoneBg.JPG'); */
+        background-image: url('./Images/iPhoneBg1.JPG');
+        background-size: contain;
+        background-size:cover;
+        color:white;
+        max-height: 60vh;
+        min-height:155vh;
+    }
+    .title-holder{
+        /* background-color:rgba(234,212, 323, 0.3); */
+        justify-content: right;
+        margin-right: 1rem;
+        width: 100%;
+        font-size: x-large;
+        margin-top:15rem
+    }
+
+
+    .title{
+        font-size: 3rem;
+        color:white
+    }
+
+    .signature{
+        margin-right:1rem;
+        text-align: right;
+        justify-content: right;
+        width:100%;
+        color:white
+    }
+
+
+    .emphasis-title{
+        background-color: gold;
+        color: #922994;
+    }
+
+    .socials{
+        justify-content: right;
+        margin-right: 1rem;
+        width: 100%;
+        font-size: x-large;
+        margin-top:2rem;
+        margin-right: 1rem;
+        /* background-color: rgba(255, 255, 255, 0.2); */
+    }
+
+    .social-link{
+
+    }
+
+    .white-text{
+        color:white;
+    }
+
+    .blue-text{
+        color:#922994;
+    }
+    .green-text{
+        color:white;
+        font-size:15px;
+    }
+
+    
+}
+
+
+@media (max-width:900px){
+    .home-banner{
+        /* background-image: url('./Images/Divyansh-20230115T142006Z-001/Divyansh/Professional.JPG'); */
+        background-image: url('./Images/iPhoneBg1.JPG');
+        background-size:contain;
+        color:white;
+    }
+}
+
+@media (max-width:730px){
+    .home-banner{
+        /* background-image: url('./Images/Divyansh-20230115T142006Z-001/Divyansh/Professional.JPG'); */
+        background-image: url('./Images/iPhoneBg1.JPG');
+        background-size:contain;
+        color:white;
+    }
+
+    .title{
+        font-size: 1rem;
+        line-height: normal;
+        color:white
+    }
+
+    .signature{
+        margin-right:1.5em;
+        text-align: right;
+        justify-content: right;
+        width:100%;
+        color:white
+    }
+
+
+    .emphasis-title{
+        background-color: gold;
+        color: #922994;
+        font-size:1rem;
+    }
+
+    .white-baggy{
+        /* background-color: rgba(128, 83, 201, 0.4); */
+    }
+
+    .emphasis-title{
+        background-color: gold;
+        color: #922994;
+    }
+}
+
+

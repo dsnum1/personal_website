@@ -1,0 +1,97 @@
+{
+    "version": "1.0",
+    "resource": "/MixRideGetDuration",
+    "path": "/default/MixRideGetDuration",
+    "httpMethod": "GET",
+    "headers": {
+        "Content-Length": "0",
+        "Host": "xy38f6y717.execute-api.ap-southeast-2.amazonaws.com",
+        "Postman-Token": "b002131e-c6be-4ea6-8c24-8fb435c2a650",
+        "User-Agent": "PostmanRuntime/7.29.0",
+        "X-Amzn-Trace-Id": "Root=1-645386ba-0d14ccfa36662586692dcdfa",
+        "X-Forwarded-For": "192.56.98.8",
+        "X-Forwarded-Port": "443",
+        "X-Forwarded-Proto": "https",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br"
+    },
+    "multiValueHeaders": {
+        "Content-Length": [
+            "0"
+        ],
+        "Host": [
+            "xy38f6y717.execute-api.ap-southeast-2.amazonaws.com"
+        ],
+        "Postman-Token": [
+            "b002131e-c6be-4ea6-8c24-8fb435c2a650"
+        ],
+        "User-Agent": [
+            "PostmanRuntime/7.29.0"
+        ],
+        "X-Amzn-Trace-Id": [
+            "Root=1-645386ba-0d14ccfa36662586692dcdfa"
+        ],
+        "X-Forwarded-For": [
+            "192.56.98.8"
+        ],
+        "X-Forwarded-Port": [
+            "443"
+        ],
+        "X-Forwarded-Proto": [
+            "https"
+        ],
+        "accept": [
+            "*/*"
+        ],
+        "accept-encoding": [
+            "gzip, deflate, br"
+        ]
+    },
+    "queryStringParameters": {
+        "ending": "412",
+        "starting": "212"
+    },
+    "multiValueQueryStringParameters": {
+        "ending": [
+            "412"
+        ],
+        "starting": [
+            "212"
+        ]
+    },
+    "requestContext": {
+        "accountId": "464041996047",
+        "apiId": "xy38f6y717",
+        "domainName": "xy38f6y717.execute-api.ap-southeast-2.amazonaws.com",
+        "domainPrefix": "xy38f6y717",
+        "extendedRequestId": "EZH9Ki9UywMEPxw=",
+        "httpMethod": "GET",
+        "identity": {
+            "accessKey": null,
+            "accountId": null,
+            "caller": null,
+            "cognitoAmr": null,
+            "cognitoAuthenticationProvider": null,
+            "cognitoAuthenticationType": null,
+            "cognitoIdentityId": null,
+            "cognitoIdentityPoolId": null,
+            "principalOrgId": null,
+            "sourceIp": "192.56.98.8",
+            "user": null,
+            "userAgent": "PostmanRuntime/7.29.0",
+            "userArn": null
+        },
+        "path": "/default/MixRideGetDuration",
+        "protocol": "HTTP/1.1",
+        "requestId": "EZH9Ki9UywMEPxw=",
+        "requestTime": "04/May/2023:10:19:38 +0000",
+        "requestTimeEpoch": 1683195578346,
+        "resourceId": "ANY /MixRideGetDuration",
+        "resourcePath": "/MixRideGetDuration",
+        "stage": "default"
+    },
+    "pathParameters": null,
+    "stageVariables": null,
+    "body": null,
+    "isBase64Encoded": false
+}

@@ -1,0 +1,33 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:ital@1&display=swap');
+.navigation-tab-website{
+    font-family:  'Montserrat', sans-serif;
+}
+
+
+sup{
+    font-size: x-small;
+}
+
+
+
+a {
+    color: white; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+
+a:link {
+    color: white; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+
+a:visited{
+    color: white; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+}
+
+a:hover{    
+    text-decoration: inherit; /* no underline */
+}
+  

@@ -1,0 +1,216 @@
+/* HomePage.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+
+.home-page {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #fff;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  
+  .main-content {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .greeting {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .profile-container {
+    margin-right: 50px; /* Adjust the spacing as needed */
+  }
+  
+  .profile-pic {
+    width: 400px;
+    border-radius: 50%;
+  }
+
+  .main-statement{
+    font-size:small;
+    color: #000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Inter;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+  }
+  .greetings-text{
+    text-align: left;
+    color: #000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+  }
+  
+  .text-container {
+    text-align: left;
+    width: 30%;
+  }
+  
+  .name {
+    color: #000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+      }
+    
+    .of-page{
+    text-align: left;
+    }
+
+  .buttons {
+    margin-top: 20px;
+  }
+
+  .meta-details{
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+    padding: 5px;;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    background-color: #D9D9D9;
+    color: #000;
+    cursor: pointer;
+    color: #000;
+
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .btn:hover {
+    background-color: #555;
+  }
+  
+  /* Add responsive design */
+  @media (max-width: 768px) {
+    .greeting {
+      flex-direction: column;
+    }
+
+    .greetings-text{
+        text-align: center;
+    }
+  
+    .profile-container {
+      margin-right: 0;
+      margin-bottom: 20px;
+    }
+  
+    .text-container {
+      text-align: center;
+      width: 100%;
+    }
+
+    .of-page{
+        text-align: left;
+    }
+    
+  
+    .navbar {
+      flex-direction: column;
+    }
+  
+    .nav-link {
+      margin: 5px 0;
+    }
+  }
+  
+
+
+
+/* ProjectPage.css */
+.project-page {
+    font-family: Arial, sans-serif;
+    color: #000;
+    min-height: 100vh;
+  }
+  
+  .project-header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1rem;
+  }
+  
+  .project-navbar .nav-link {
+    color: #000;
+    text-decoration: none;
+    margin-left: 1rem;
+  }
+  
+  .project-main {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+  
+  .project-title {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+  }
+  
+  .project-date {
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  
+  .project-content {
+    background-color: #fff;
+    color: #000;
+    padding: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .project-footer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  /* Add more styles for the content and footer elements as needed */
+  /* ... */
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .project-header {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .project-navbar .nav-link {
+      margin-bottom: 0.5rem;
+    }
+  
+    .project-footer {
+      flex-direction: column;
+    }
+  }
+  

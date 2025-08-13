@@ -1,0 +1,69 @@
+{
+    "label": "Nanyang Technological University, Singapore",
+    "value": {
+        "description": "Nanyang Technological University, Singapore",
+        "matched_substrings": [
+            {
+                "length": 13,
+                "offset": 0
+            }
+        ],
+        "place_id": "ChIJY0QBmQoP2jERGYItxQAIu7g",
+        "reference": "ChIJY0QBmQoP2jERGYItxQAIu7g",
+        "structured_formatting": {
+            "main_text": "Nanyang Technological University",
+            "main_text_matched_substrings": [
+                {
+                    "length": 13,
+                    "offset": 0
+                }
+            ],
+            "secondary_text": "Singapore"
+        },
+        "terms": [
+            {
+                "offset": 0,
+                "value": "Nanyang Technological University"
+            },
+            {
+                "offset": 34,
+                "value": "Singapore"
+            }
+        ],
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    }
+},
+
+
+
+["rows"][0]["elements"][0]["duration"]["value"]
+
+{
+    "rows": [
+        {
+            "elements": [
+                {
+                    "distance": {
+                        "text": "4.2 km",
+                        "value": 4165
+                    },
+                    "duration": {
+                        "text": "11 mins",
+                        "value": 655
+                    },
+                    "status": "OK"
+                }
+            ]
+        }
+    ],
+    "originAddresses": [
+        "Sengkang, Singapore"
+    ],
+    "destinationAddresses": [
+        "Hougang, Singapore"
+    ]
+}

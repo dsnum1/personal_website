@@ -1,0 +1,76 @@
+.app-title{
+    font-family: 'Nirmala UI', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    /* or 90% */
+    color: #F0F8EE;
+    width:40%;
+}
+
+.bubbles{
+    margin-top: -70px;
+}
+
+.highlight-word{
+    font-family: 'Nirmala UI', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 20px;
+    color: #12F81B;
+    }
+
+.rest-of-description{
+    font-family: 'Nirmala UI', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+    width:70%;
+}
+
+.app-menu{
+    background: #000000;
+    border-radius: 25px;
+    width:100%;
+}
+
+
+.MuiButton-outlined {
+    text-transform: none !important;
+  }
+
+
+  .back-background{
+    background-image: url('../../Images/car-dashboard.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(14, 15, 67, 0.9); /* Replace with your desired color */
+    background-blend-mode: overlay;
+    }
+
+.back-background-parentContainer{
+    position:relative;
+    min-height:90vh;
+    width: 100%;
+}
+
+.bottomDiv{
+    position:absolute;
+    left:0;
+    bottom:0;
+    width:'100%'
+}
+
+
+
+.thankyou{
+    background-image:url('../../Images/mix_ride.jpg') ;
+    background-size: cover;
+    background-repeat: none;
+    background-color: rgb(12, 102, 8); /* Replace with your desired color */
+    background-blend-mode: overlay;
+    min-height: 80vh;
+}

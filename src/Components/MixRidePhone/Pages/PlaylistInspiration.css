@@ -1,0 +1,159 @@
+.multi-carousel {
+  display: flex;
+  flex-wrap: wrap;
+  /* Add any additional multi-carousel styles here */
+}
+
+.carousel {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+  /* Add any additional carousel styles here */
+}
+
+.slide-container {
+  flex: 0 0 30%; /* Set the width of each slide container to 30% by default */
+  /* Add any additional slide container styles here */
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+  .slide-container {
+    flex: 0 0 50%; /* Set the width of each slide container to 50% on smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .slide-container {
+    flex: 0 0 100%; /* Set the width of each slide container to 100% on even smaller screens */
+  }
+}
+
+
+.slider {
+  margin:0 20px;
+  overflow:"hidden";
+  padding:2rem 0;
+}
+
+.slider img {
+  width: 100%;
+  /* border-radius:10px; */
+}
+
+.react-multi-carousel-list {
+padding: 0rem 0 2rem 0;
+}
+
+.custom-dot-list-style button{
+border: none;
+background: rgb(255, 68, 68);
+}
+.react-multi-carousel-dot.react-multi-carousel-dot--active button{
+background: rgb(255, 68, 68) !important;
+}
+
+.personal-favourite{
+  background-image: url('../../Images/naruto_run_background.jpg');
+  min-height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100%;
+}
+
+
+.playlist-card{
+  min-height: 400px;
+  cursor: pointer;
+}
+
+.playlist-card:hover {
+  /* transform: translateX(20px); Adjust the translation value to control the 3D effect */
+  opacity: 0.4;
+}
+
+
+
+
+.space-playlist{
+  margin:auto;
+}
+
+.sg-space{
+  background-image: 
+  linear-gradient(to bottom, rgba(135, 7, 27, 0.73), rgba(27, 12, 18, 0.52)),
+  url('../../Images/singapore_skyline.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 1rem;
+}
+
+.us-space{
+  background-image: 
+  linear-gradient(to bottom, rgba(0, 38, 128, 0.73), rgba(167, 14, 14, 0.52)),
+  url('../../Images/united_states.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 1rem;
+
+}
+
+.in-space{
+  background-image: 
+  linear-gradient(to bottom, rgba(0, 38, 128, 0.73), rgba(167, 14, 14, 0.52)),
+  url('../../Images/Indianpage.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 1rem;
+
+}
+
+.my-space{
+  background-image: 
+  linear-gradient(to bottom, rgba(0, 38, 128, 0.73), rgba(193, 127, 27, 0.8));
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 1rem;
+}
+
+.card-hover {
+  position: relative;
+}
+
+.hover-buttons {
+  display: none;
+  position: absolute;
+  width:fit-content;
+  top: 50%;  /* Adjust these values as needed */
+  /* left: 50  %; */
+  /* transform: translate(-50%, -50%); */
+}
+
+.card-hover:hover .hover-buttons {
+  display: block;
+}
+
+.card-hover:hover .card{
+  opacity: 0.4;
+}
+
+.selectionButton{
+  margin-top: 1rem;
+  font-size: small;
+}
+
+.onSpotify{
+  background-color: #1DB954;
+}
+
+.selectPlaylist{
+  /* background-color: #1DB954; */
+}
+
+.confirmation {
+  display: none;
+  position: absolute;
+  top: 50%;  /* Adjust these values as needed */
+  left: 25%;
+  transform: translate(-50%, -50%);
+}

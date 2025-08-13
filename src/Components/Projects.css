@@ -1,0 +1,158 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+/* General Settings */
+:root {
+    font-size: 16px; /* Base font size */
+}
+
+body, html {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* Project Section Heading */
+.project-section-heading {
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    font-size: 3.5rem;
+    border-top: solid 4px black;
+    border-bottom: solid 4px black;
+}
+
+/* Title and Content Spaces */
+.professional-title-space {
+    padding: 2rem;
+    text-align: right;
+    min-height: 70vh;
+}
+
+.professional-title {
+    /* font-size: 3rem; */
+    text-align: left;
+}
+
+.experience-subheading {
+    background-color: rgba(124, 124, 0, 0.3);
+    text-align: justify;
+}
+
+.experience-summary {
+    text-align: justify;
+    /* border: 2px solid black; */
+    padding: 2rem;
+}
+
+/* Profile Photo */
+.professional-profile-photo-space {
+    background-size: cover;
+    background-position: center;
+    min-height: 30vh;
+    margin-top: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .header-professional-title,
+    .professional-title {
+        font-size: 2rem; /* Smaller font size for smaller screens */
+    }
+
+    .experience-summary,
+    .motto-quote,
+    .header-experience-subheading {
+        font-size: 1rem; /* Adjusting text size for readability */
+    }
+
+    .project-section-heading {
+        font-size: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .container-fluid {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .professional-title-space,
+    .professional-profile-photo-space {
+        margin-right: 0.5rem;
+        margin-left: 0.5rem;
+    }
+}
+
+
+
+#yunnan_gardens_ai{
+    background-image: url('./Images/Draft2/YG.gif');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#mpd_group_video{
+    background-image: url('./Images/Draft2/MDP.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#emass_website_photo{
+    background-image: url('./Images/Draft2/EMASS_evidence.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bc2402_project_database{
+    background-image: url('./Images/Draft2/database_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#senserbot_internship{
+    background-image: url('./Images/Draft2/Senserbot.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#gcrl_fyp{
+    background-image: url('./Images/OptimizationFunction.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hp_internship{
+    background-image: url('./Images/HP_day_out.jpg');
+    background-repeat: no-repeat;
+    /* background-size:15cm; */
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+}
+
+
+#escendo{
+    background-image: url('./Images/Draft2/GateWay.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bc2402_gp{
+    background-image: url('./Images/Draft2/windmill.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
