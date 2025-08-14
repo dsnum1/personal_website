@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.acf76609.css",
-    "main.js": "/personal_website/static/js/main.644737d9.js",
+    "main.css": "/personal_website/static/css/main.00f3edc8.css",
+    "main.js": "/personal_website/static/js/main.03361420.js",
     "static/media/DSC_0672.JPG": "/personal_website/static/media/DSC_0672.594f722a0404aa268bd5.JPG",
     "static/media/DSC_0619.JPG": "/personal_website/static/media/DSC_0619.c0ba626801482454e51c.JPG",
     "static/media/MDP.gif": "/personal_website/static/media/MDP.22b73d75cf2a4e0f652d.gif",
@@ -15,6 +15,7 @@
     "static/media/DSC_0673.JPG": "/personal_website/static/media/DSC_0673.7f610806c1bfd0868b90.JPG",
     "static/media/DSC_0670.JPG": "/personal_website/static/media/DSC_0670.18875b9860a506376955.JPG",
     "static/media/DSC_3098.JPG": "/personal_website/static/media/DSC_3098.e8f652b32551ce39219b.JPG",
+    "static/media/quality_role.jpg": "/personal_website/static/media/quality_role.e7e4f269cb2d4ee80bc0.jpg",
     "static/media/iPhoneBg1.JPG": "/personal_website/static/media/iPhoneBg1.caaebcd937242fad1baa.JPG",
     "static/media/DSC_3093.JPG": "/personal_website/static/media/DSC_3093.f31b2079ae6281e593cc.JPG",
     "static/media/DSC_3087.JPG": "/personal_website/static/media/DSC_3087.d413f794170b839ee9ab.JPG",
@@ -31,6 +32,7 @@
     "static/media/DSC_0549.JPG": "/personal_website/static/media/DSC_0549.115c184cb6560572081e.JPG",
     "static/media/DSC_0552.JPG": "/personal_website/static/media/DSC_0552.1ceb30fe43d02d9b7012.JPG",
     "static/media/Home1.png": "/personal_website/static/media/Home1.cc5cae7d0fcd6a9da5f8.png",
+    "static/media/digitalization_role.jpg": "/personal_website/static/media/digitalization_role.5ce44e22d35cf2202ef3.jpg",
     "static/media/DSC_0609.JPG": "/personal_website/static/media/DSC_0609.de2a1ff2895cd7d9bd61.JPG",
     "static/media/DSC_3090.JPG": "/personal_website/static/media/DSC_3090.a16c9047d5584bf28e94.JPG",
     "static/media/DSC_0626.JPG": "/personal_website/static/media/DSC_0626.8d1d14b3da9fa3ac233a.JPG",
@@ -68,13 +70,14 @@
     "static/media/revicons.ttf": "/personal_website/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/instaIcon.png": "/personal_website/static/media/instaIcon.4a85fa308a481f4ce479.png",
     "static/media/SiameseNetResult.png": "/personal_website/static/media/SiameseNetResult.574d3f1e7762b929fe77.png",
+    "static/media/naemobox.png": "/personal_website/static/media/naemobox.01e9513414e4dbe60e76.png",
     "static/media/revicons.woff": "/personal_website/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/personal_website/index.html",
-    "main.acf76609.css.map": "/personal_website/static/css/main.acf76609.css.map",
-    "main.644737d9.js.map": "/personal_website/static/js/main.644737d9.js.map"
+    "main.00f3edc8.css.map": "/personal_website/static/css/main.00f3edc8.css.map",
+    "main.03361420.js.map": "/personal_website/static/js/main.03361420.js.map"
   },
   "entrypoints": [
-    "static/css/main.acf76609.css",
-    "static/js/main.644737d9.js"
+    "static/css/main.00f3edc8.css",
+    "static/js/main.03361420.js"
   ]
 }
